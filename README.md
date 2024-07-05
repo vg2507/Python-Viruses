@@ -1,6 +1,6 @@
 # How to install?
 
-1. Click releases ((link)[https://github.com/vg2507/Python-Viruses/releases]) and download any of files (.zip)
+1. Click releases ([link](https://github.com/vg2507/Python-Viruses/releases)) and download any of files (.zip)
 Done!
 
 # Viruses 
