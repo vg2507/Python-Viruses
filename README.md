@@ -1,6 +1,6 @@
 # How to install?
 
-1. Click releases (link) and download any of files (.zip)
+1. Click releases ((link)[https://github.com/vg2507/Python-Viruses/releases]) and download any of files (.zip)
 Done!
 
 # Viruses 
@@ -8,7 +8,7 @@ Done!
 
 
 # Levels (how to unlock)
-0. To open task manager, click «CTRL,SHIFT,ESC» or «CTRL,SHIFT,DEL»
+0. To open https://github.com/vg2507/Python-Viruses/releasestask manager, click «CTRL,SHIFT,ESC» or «CTRL,SHIFT,DEL»
 1. Easy virus. Just open task manager and close the process and delete exe file
 2. (do 1 level first) Windows 11: click «Run new task» in task manager and enter «explorer.exe». Windows 10: click File>Run new task and enter «explorer.exe»
  
