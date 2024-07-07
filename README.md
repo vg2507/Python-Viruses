@@ -8,7 +8,7 @@ Done!
 
 
 # Levels (how to unlock)
-0. To open manager, click «CTRL,SHIFT,ESC» or «CTRL,SHIFT,DEL»
+0. To open task manager, click «CTRL,SHIFT,ESC» or «CTRL,SHIFT,DEL»
    
 1. Easy virus. Just open task manager and close the process and delete exe file
    
